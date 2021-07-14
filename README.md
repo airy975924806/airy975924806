@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airy975924806
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning how to handle the mini bantch datasets
-- 💞️ I’m looking to collaborate on dedication
+- 💞️ I’m looking to collaborate on object dedication
 - 📫 Reach me via 975924806@qq.com,Willing...
 
 <!---
